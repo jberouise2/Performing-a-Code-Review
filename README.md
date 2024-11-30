@@ -16,3 +16,4 @@ Once you've made changes to the `test_nan_values` unit test, you'll want to ensu
 For context, there is a print statement in the `prepare_smartphone_data()` function in the first cell of the notebook below that can be used to visualize the dataset your Junior Data Engineer has been working with. Feel free to update this line of code as needed. This can then be removed after the dataset has been investigated. Best of luck!  
 
 # `Solution`
+[python_solution](https://github.com/jberouise2/Performing-a-Code-Review/blob/f16e17780a1fd2bb5f6b714f6c914799f4ad72e2/notebook.ipynb)
